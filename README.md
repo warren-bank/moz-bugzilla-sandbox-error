@@ -66,3 +66,6 @@ actual output, as logged by various versions of Firefox:
 
 conclusions:
   * the bug was introduced some time between versions: 16.0.2 and 17.0
+
+bugzilla report:
+  * [Bug 1106165](https://bugzilla.mozilla.org/show_bug.cgi?id=1106165)
