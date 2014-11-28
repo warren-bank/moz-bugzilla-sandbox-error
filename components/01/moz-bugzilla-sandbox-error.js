@@ -17,11 +17,6 @@ log('moz-bugzilla-sandbox-error: starting..');
 // https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XPCOM/Reference/Interface/nsIPrincipal
 // https://developer.mozilla.org/en-US/docs/Security_check_basics
 eval_result = (function(){
-	var Cc, Ci, Cu;
-	Cc	= Components.classes;
-	Ci	= Components.interfaces;
-	Cu	= Components.utils;
-
 	var host_variables, null_principal, sandbox_options, sandbox, code, result;
 
 	host_variables	= {
