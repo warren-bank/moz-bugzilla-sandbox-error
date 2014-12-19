@@ -1,4 +1,0 @@
-component {1e0e9fa6-6e95-4642-b059-fc212a216855} components/01/moz-bugzilla-sandbox-error.js
-
-contract @github.com/moz-bugzilla-sandbox-error;1 {1e0e9fa6-6e95-4642-b059-fc212a216855}
-category profile-after-change moz-bugzilla-sandbox-error @github.com/moz-bugzilla-sandbox-error;1
